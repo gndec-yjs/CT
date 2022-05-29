@@ -60,3 +60,12 @@
   - **[IS 13311 (Part 1) : 1992 - Indian Standard: Non-Destructive Testing of Concrete - Methods of Test (UPV)](pdf/Codes/IS_13311_1_1992.pdf)**
   - **[IS 13311 (Part 2) : 1992 - Indian Standard: Non-Destructive Testing of Concrete - Methods of Test (Rebound Hammer)](pdf/Codes/IS_13311_2_1992.pdf)**
 - **Indian Standard** - **[IS 456](pdf/Codes/IS_456.pdf)**
+
+### 6. Special Concretes
+
+- **[Notes on Special Concrete](pdf/Special_Concretes.pdf)**
+- **[Self-Compacting Concrete - by Kshitiz Kumar (2014044/2004443)](pdf/SCC.pdf)**
+- **[Self-Healing Concrete - by Amitoj Singh (2014006/2004402)](pdf/SHC_1.pdf)**
+- **[Self-Healing Concrete - by Arshdeep Singh (2014013/200411)](pdf/SHC_2.pdf)**
+- **[Light Weight Concrete - by Beant Kaur (2014020/2004419)](pdf/LWC.pdf)**
+- **[Fiber Reinforced and Steel Reinforced Concrete - by Nabeel Farooqui (2014049/2004449)](pdf/FRC_SFRC.pdf)**
